@@ -1,6 +1,6 @@
 ## Bom dia! :sun_with_face::octocat:
 
-### Cursando Front-End na *_TecnoStart_* <img src="https://image.flaticon.com/icons/png/512/892/892663.png" alt="Seta" width="15"/>
+### Treinee na *_TecnoStart_* <img src="https://image.flaticon.com/icons/png/512/892/892663.png" alt="Seta" width="15"/>
 
  Oi!\
  Me chamo Daniel Alves e atualmente trabalho como Técnico em Suporte de TI no Hospital Ernesto Dornelles. :hospital:
@@ -12,7 +12,10 @@
 - Amazon AWS
 
 ### Objetivos:
-Comecei a me interessar por programação e AWS pela vasta procura no mercado e por incentivos de amigos de colegas de trabalho.\
+Comecei a me interessar por programação e AWS pela vasta procura no mercado e por incentivos de amigos de colegas de trabalho.
+Conheci a **[TecnoStart](https://tecnostart.com.br/)** e estava recioso de começar a estudar novamente,
+tendo em vista que cursos que fiz eram EAD e/ou não davam suporte adequado. Após a primeira aula eu vi que era um curso diferenciado e muito
+bom para quem realmente quer começar a carreira na área.\
 Tenho o objetivo de ser Dev Full Stack. :computer: :shipit:
 
 
